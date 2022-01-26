@@ -1,3 +1,8 @@
-yannis
-thomas
-ouvrier
+Berthier //Nom
+Corinne //Prenom
+Surveillance entrepôt //job
+pmNd1ldFE7WTk //mdp
+              //espace obligatoire
+kit           //liste equipements
+lampe
+lacrymo
